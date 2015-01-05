@@ -1,0 +1,1 @@
+Le sujet du projet est de mettre en pratique les deux premieres parties du cours GIT sur Openclassrooms.com.
